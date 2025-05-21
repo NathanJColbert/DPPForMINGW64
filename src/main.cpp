@@ -1,5 +1,4 @@
-#include <iostream>
-#include <dpp/dpp.h>
+#include "main.h"
 
 int main() {
     std::cout << "Hello world!" << std::endl;

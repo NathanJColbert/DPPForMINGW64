@@ -33,11 +33,11 @@ pacman -S \
 
 ```bash
 # Clone the repository (with submodules - dpp)
-git clone --recurse-submodules HTTPGoesHereLol
+git clone --recurse-submodules https://github.com/NathanJColbert/DPPForMINGW64.git
 cd DPPForMINGW64
 
 # OR
-git clone HTTPGoesHereLol
+git clone https://github.com/NathanJColbert/DPPForMINGW64.git
 cd DPPForMINGW64
 git submodule update --init --recursive
 ```
